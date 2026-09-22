@@ -71,6 +71,8 @@ Bash
 cd frontend-react
 npm install
 npm run dev
+
+
 📝 License & Author
 Developed by Isadora Santos.
 Released under the MIT License.
